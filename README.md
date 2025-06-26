@@ -17,12 +17,12 @@ This project demonstrates how to manage books and users using simple Java classe
 ## 📁 Folder Structure
 
 LibraryManagementSystem/
-├── Book.java
-├── User.java
-├── Library.java
-├── Main.java
-├── img.png ← Output screenshot
-└── README.md
+ ├── Book.java
+ ├── User.java
+ ├── Library.java
+ ├── Main.java
+ ├── img.png ← Output screenshot
+ └── README.md
 
 ---
 
@@ -40,7 +40,7 @@ LibraryManagementSystem/
 
 Below is the screenshot of how the program looks in the terminal:
 
-![Sample Output](img.png)
+![Sample Output](Img.png)
 
 ---
 
